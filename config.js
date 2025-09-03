@@ -6,7 +6,7 @@ class Config {
 
     loadConfig() {
         // Load from config.env file or use defaults
-        this.TMDB_API_KEY = this.getEnvVar('TMDB_API_KEY', '3d3b5cbc09e66409a5686373a4c110e7');
+        this.TMDB_API_KEY = this.getEnvVar('TMDB_API_KEY', 'your_tmdb_api_key_here');
         this.TMDB_BASE_URL = this.getEnvVar('TMDB_BASE_URL', 'https://api.themoviedb.org/3');
         this.IMAGE_BASE_URL = this.getEnvVar('IMAGE_BASE_URL', 'https://image.tmdb.org/t/p/w500');
         this.FALLBACK_POSTER_URL = this.getEnvVar('FALLBACK_POSTER_URL', 'https://dummyimage.com/500x750/1f2937/9ca3af&text=No+Poster');
@@ -76,3 +76,4 @@ const config = new Config();
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = config;
 }
+
