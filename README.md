@@ -2,7 +2,7 @@
 
 A modern, intelligent movie recommendation platform that provides personalized suggestions based on user preferences, mood, and viewing history. Built with FastAPI backend and a beautiful, responsive frontend.
 
-![Movie Explorer Banner](https://via.placeholder.com/800x200/667eea/ffffff?text=Movie+Explorer+-+Discover+Your+Next+Favorite+Movie)
+![Movie Explorer Banner](screenshots/homepage.png)
 
 ## ✨ Features
 
@@ -44,37 +44,37 @@ A modern, intelligent movie recommendation platform that provides personalized s
 ## 🖼️ Screenshots
 
 ### 🏠 **Homepage & Main Interface**
-![Homepage](https://via.placeholder.com/800x500/1f2937/ffffff?text=Homepage+-+Trending+Movies+and+Search)
+![Homepage](screenshots/homepage.png)
 
 *Clean, modern interface showing trending movies, search functionality, and personalized recommendations*
 
 ### 🔍 **Search & Suggestions**
-![Search Interface](https://via.placeholder.com/800x500/667eea/ffffff?text=Search+Interface+-+Smart+Suggestions+and+Results)
+![Search Interface](screenshots/search_interface.png)
 
 *Advanced search with real-time suggestions, showing search results and related recommendations*
 
 ### 👤 **User Profile & Preferences**
-![User Profile](https://via.placeholder.com/800x500/8b5cf6/ffffff?text=User+Profile+-+Preferences+and+Settings)
+![User Profile](screenshots/user_profile.png)
 
 *Comprehensive user profile with mood selection, language preferences, and safety settings*
 
 ### 📋 **Watchlist Management**
-![Watchlist](https://via.placeholder.com/800x500/10b981/ffffff?text=Watchlist+-+Saved+Movies+and+Management)
+![Watchlist](screenshots/watchlist.png)
 
 *Personal watchlist showing saved movies with easy management options*
 
 ### 🎭 **Mood-Based Recommendations**
-![Mood Selection](https://via.placeholder.com/800x500/f59e0b/ffffff?text=Mood+Selection+-+Emotional+Movie+Filtering)
+![Mood Selection](screenshots/mood_selection.png)
 
 *Interactive mood selection interface with emoji-based mood indicators*
 
 ### 🎬 **Movie Details & Trailer**
-![Movie Details](https://via.placeholder.com/800x500/ef4444/ffffff?text=Movie+Details+-+Information+and+Trailer)
+![Movie Details](screenshots/movie_details.png)
 
 *Detailed movie information page with trailer integration and similar movie recommendations*
 
 ### 📱 **Mobile Responsive Design**
-![Mobile View](https://via.placeholder.com/400x700/6366f1/ffffff?text=Mobile+View+-+Responsive+Design)
+![Mobile View](screenshots/mobile_view.png)
 
 *Fully responsive design optimized for mobile devices with touch gestures*
 
@@ -267,10 +267,6 @@ open http://127.0.0.1:8000/docs
 - **Cache Hit Rate**: > 80%
 - **Mobile Performance**: 90+ Lighthouse Score
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### Development Setup
 1. Fork the repository
 2. Create a feature branch
@@ -292,12 +288,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: support@movieexplorer.com
+- **Issues**: [GitHub Issues](https://github.com/movie-explorer-latest/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/movie-explorer-latest/discussions)
+- **Email**: rahulbaberwal3@gmail.com
 
 ---
 
 **Made with ❤️ for movie lovers everywhere**
+
 
 *Discover your next favorite movie with AI-powered recommendations!*
