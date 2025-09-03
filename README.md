@@ -75,7 +75,7 @@ A modern, intelligent movie recommendation platform that provides personalized s
 
 ### 📱 **Mobile Responsive Design**
 <div align="center">
-  <img width="50%" src="screenshots/mobile_view.png" alt="Mobile View">
+  <img width="200px" src="screenshots/mobile_view.png" alt="Mobile View">
 </div>   
 
 *Fully responsive design optimized for mobile devices with touch gestures*
@@ -300,5 +300,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 *Discover your next favorite movie with AI-powered recommendations!*
+
 
 
