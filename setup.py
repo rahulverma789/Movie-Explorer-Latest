@@ -11,7 +11,7 @@ from pathlib import Path
 def create_config_file():
     """Create config.env file with default values"""
     env_content = """# TMDB API Configuration
-TMDB_API_KEY=3d3b5cbc09e66409a5686373a4c110e7
+TMDB_API_KEY=your_tmdb_api_key_here
 TMDB_BASE_URL=https://api.themoviedb.org/3
 IMAGE_BASE_URL=https://image.tmdb.org/t/p/w500
 FALLBACK_POSTER_URL=https://dummyimage.com/500x750/1f2937/9ca3af&text=No+Poster
@@ -94,7 +94,6 @@ def check_files():
         print("⚠️  Some data files are missing:")
         for file in missing_files:
             print(f"   - {file}")
-        print("The application will attempt to download them from Hugging Face on first run.")
     else:
         print("✅ All required data files are present")
     
@@ -143,3 +142,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
