@@ -288,8 +288,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/movie-explorer-latest/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/movie-explorer-latest/discussions)
+- **Issues**: [GitHub Issues](https://github.com/rahulverma789/Movie-Explorer-Latest/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/rahulverma789/Movie-Explorer-Latest/discussions)
 - **Email**: rahulbaberwal3@gmail.com
 
 ---
@@ -298,3 +298,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 *Discover your next favorite movie with AI-powered recommendations!*
+
