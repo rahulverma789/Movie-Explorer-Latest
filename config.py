@@ -9,7 +9,7 @@ class Config:
     """Configuration class for the movie recommender application"""
     
     # TMDB API Configuration
-    TMDB_API_KEY: str = os.getenv('TMDB_API_KEY', '3d3b5cbc09e66409a5686373a4c110e7')
+    TMDB_API_KEY: str = os.getenv('TMDB_API_KEY', 'your_tmdb_api_key_here')
     TMDB_BASE_URL: str = os.getenv('TMDB_BASE_URL', 'https://api.themoviedb.org/3')
     IMAGE_BASE_URL: str = os.getenv('IMAGE_BASE_URL', 'https://image.tmdb.org/t/p/w500')
     FALLBACK_POSTER_URL: str = os.getenv('FALLBACK_POSTER_URL', 'https://dummyimage.com/500x750/1f2937/9ca3af&text=No+Poster')
@@ -82,3 +82,4 @@ if not config.validate():
 # Print configuration in debug mode
 if config.DEBUG:
     config.print_config()
+
